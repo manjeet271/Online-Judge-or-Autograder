@@ -2,12 +2,16 @@
 SAMPLE COMMAND TO COMPILE AND RUN THE PROGRAM:
 
 Command to compile server program: g++ server.cpp -o server
+
 Command to run server program: ./server <port_no.>
+
 example: ./server 60340
 
 
 Command to compile server program: g++ client.cpp -o client
+
 Command to run server program: ./client <port_no.>
+
 example: ./client 60340
 
 NOTE: Press ctrl+c to exit from server program
